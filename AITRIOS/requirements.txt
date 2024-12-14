@@ -1,8 +1,0 @@
-requests
-opencv-python
-pillow
-flatbuffers
-GPIO
-rpi.gpio
-spidev
-st7789
