@@ -1,7 +1,5 @@
-#!/usr/bin/bash
-cd ~
-sudo mkdir kuma
-sudo python -m venv kuma
-source kuma/bin/activate
-pip install -r ~/kumakita/requirements.txt
+cd ~/kumakita
+sudo python -m venv kumakita
+source kumakita/bin/activate
+pip install -r requirements.txt
 exit
