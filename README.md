@@ -1,3 +1,5 @@
 このリポジトリは、AITRIOSのオンライン環境を使用することができる人が、
 RestAPIを用いてRapsberry Piに接続された3.5インチTFTディスプレイに
 推論結果とイメージにBoundingBoxを重ね合わせたものを表示することができます。
+Pythonの仮想環境のもとで、RequirementsのLibraryがインストールされている必要があります。
+Programは、kumakita.pyから起動します。
